@@ -25,3 +25,18 @@ un objeto. Algunas de las cosas que podemos hacer son:
 - Sustitución de texto en cadenas
 - Determinar la longitud de la cadena
 - Interpolar cadenas de texto
+
+## Ciclos
+
+Los ciclos nos permiten repetir la ejecución de un código las veces que
+consideremos necesarias, podemos utilizar cualquiera de los siguientes.
+
+- While: Ejecuta código mientras condicional es verdadero
+- until: Ejecuta código mientras condicional es falso
+- for: Ejecuta el código una vez para cada elemento en la expresión
+- each: Ejecuta el código una vez para cada elemento en la expresión, sin crear un nuevo ámbito para las variables locales
+- times: Ejecuta el código la cantidad de veces estipulada en la variable que condiciona “times”
+- break: Termina el bucle más interno.
+- next: Salta a la siguiente iteración del bucle más interno
+- redo: Reinicia esta iteración del bucle más interno, sin verificar la condición del bucle
+- retry: Se ejecuta de nuevo la sección del código que se rescató.
