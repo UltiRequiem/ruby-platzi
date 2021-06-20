@@ -1,4 +1,6 @@
-# Curso de Ruby
+# Curso Basico de Ruby
+
+![Ruby Image](./others/images/wall.png)
 
 Ruby es un lenguaje de programación creado por Matz en 1995, es open source y fue popularizado por Rails en 2005.
 Este lenguaje es dinámico, interpretado y orientado a objetos (todo es un objeto).
