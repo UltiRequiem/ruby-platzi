@@ -1,3 +1,5 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "standard", group: [:development, :test]
+source 'https://rubygems.org'
+
+gem 'standard', group: %i[development test]
