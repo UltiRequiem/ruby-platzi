@@ -2,10 +2,10 @@
 
 # Declarate
 
-hi = "Hola"
 hi = 'Hola'
-hi = %q(Hola)
-hi = %Q(Hola)
+hi = 'Hola'
+hi = 'Hola'
+hi = %(Hola)
 hi = %(Hola)
 
 puts hi
