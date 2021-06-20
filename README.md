@@ -1,4 +1,4 @@
-# Curso Basico de Ruby
+# Curso Básico de Ruby
 
 ![Ruby Image](./others/images/wall.png)
 
@@ -19,4 +19,3 @@ Su objetivo es la felicidad y productividad del desarrollador.
 - Alto uso de memoria
 - No paralelismo
 - Ha venido decreciendo en popularidad
-- Lecturas recomendadas
