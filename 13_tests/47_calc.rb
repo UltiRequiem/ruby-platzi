@@ -17,7 +17,8 @@ my_calc = Calculator.new
 test_sum = {
   [1, 2] => 3,
   [3, 5] => 8,
-  [2, 2] => 4
+  [2, 2] => 4,
+  [2, 3] => 5
 }
 
 test_sum.each do |input, expected_result|
