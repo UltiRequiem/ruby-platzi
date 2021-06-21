@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 class Person
+  attr_accessor :name, :age
+
   def initialize(name, age)
     @name = name
     @age = age
@@ -9,13 +11,8 @@ class Person
   def self.suggested_names
     %w[Zero Mica Cale]
   end
-
-  attr_writer :name, :age
-
-  def present
-    puts "Hi! My name is #{@name} and I'm #{@age} years old."
-  end
 end
 
-my_person = Person.new('Zero', 14)
-my_person.present
+person_two = Person.new('Zero', 14)
+puts person_two.name
+puts person_two.age
