@@ -40,3 +40,7 @@ consideremos necesarias, podemos utilizar cualquiera de los siguientes.
 - next: Salta a la siguiente iteración del bucle más interno
 - redo: Reinicia esta iteración del bucle más interno, sin verificar la condición del bucle
 - retry: Se ejecuta de nuevo la sección del código que se rescató.
+
+### Enlaces Utiles
+
+- [Blocks, procs and lambdas](https://medium.com/podiihq/ruby-blocks-procs-and-lambdas-bb6233f68843)
