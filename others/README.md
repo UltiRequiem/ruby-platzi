@@ -46,3 +46,4 @@ consideremos necesarias, podemos utilizar cualquiera de los siguientes.
 - [Blocks, procs and lambdas](https://medium.com/podiihq/ruby-blocks-procs-and-lambdas-bb6233f68843)
 - [https://joearms.github.io/published/2013-04-05-concurrent-and-parallel-programming.html](https://joearms.github.io/published/2013-04-05-concurrent-and-parallel-programming.html)
 - [Ruby Concurrency and Parallelism: A Practical Tutorial](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
+- [Javascript Asíncrono: La guía definitiva](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono#concurrencia-y-paralelismo)
